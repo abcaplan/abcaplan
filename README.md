@@ -9,7 +9,7 @@
 💬 **Ask me about**: How I make **data analysis** fun, how **technology** is reshaping the world, or how to turn problems into solutions! <br>
 📫 **Reach out**: Connect with me on **LinkedIn**, I’ll get back to you faster than you can say “data science”!  
 
-🔗 **Explore my Data Technician portfolio**: View my portfolio showcasing my work in data analysis and related projects at [here](https://sites.google.com/view/bogdan-caplan-portfolio/home).
+🔗 Explore my **[Data Technician portfolio](https://sites.google.com/view/bogdan-caplan-portfolio/home)**.
 
 ---
 ## Core Skills
@@ -28,4 +28,5 @@
 ![Adobe Premiere Pro CC](https://img.shields.io/badge/Adobe%20Premiere%20Pro%20CC-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 
 
-
+## GitHub Projects' Languages Distribution
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abcaplan&layout=compact&langs_count=6)
